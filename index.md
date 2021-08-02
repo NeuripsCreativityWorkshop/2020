@@ -121,9 +121,9 @@ You will find links to all the sessions on our [NeurIPS workshop website](https:
 
 ## Contact
 
-If you have any questions, please contact us at `neurips2020creativity@gmail.com`
+If you have any questions, please contact us at `neuripscreativityworkshop@googlegroups.com`
 
-Workshop website: [https://neurips2020creativity.github.io](https://neurips2020creativity.github.io)
+Workshop website: [https://neuripscreativityworkshop.github.io/2020](https://neuripscreativityworkshop.github.io/2020)
 
 Previous years:
 
