@@ -131,7 +131,7 @@ Previous years:
 * [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
 * [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
 
-The art submissions from previous years can be viewed [here](http://www.aiartonline.com/)
+The art submissions from this year and previous years can be viewed [here](http://www.aiartonline.com/)
 
 ## How to attend
 
